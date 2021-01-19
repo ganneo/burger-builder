@@ -1,0 +1,14 @@
+.bread-top,
+.bread-bottom {
+  border: 1px solid brown;
+  width: 40%;
+  margin: auto;
+}
+
+.bread-top {
+  margin-top: 3rem;
+}
+
+.bread-bottom {
+  margin-bottom: 3rem;
+}

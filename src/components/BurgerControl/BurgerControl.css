@@ -1,0 +1,8 @@
+.burger-controls {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: orange;
+  padding: 1rem;
+  padding-bottom: 3rem;
+}
